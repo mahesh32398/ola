@@ -1,0 +1,38 @@
+                                                                 AZURE DEVOPS
+WHAT IS AZURE?
+TO STORE THE DATA IN CLOUD.IN AZURE PAY US GO 
+HOW TO CREATEE AZURE PORTAL
+GO TO AZURE PORTAL  1)Registration
+                    2)Subscription
+                    3)resource Group 
+                    4)resourcēs
+
+registration u have to resiter with mail id and valid phone number
+subscripton in subscrtion there are 2 types 1)free trail [2 rs will debat ur card after 2 days they refund u]
+                                            2)payment [pay as u go]
+resource group[rg is acontainer ]
+resources[virtual machine]
+stroage account-to store the data in a cloud
+why we need to use stroage account
+     1)to store the data in unstructured format
+     2)log information
+     3)back up's
+     4)vhd[virtual hard disk]
+stroage account kinds are 3 types
+     1)V1 or general purpouse/stroage v1
+     2)V2 or general purpouse/stroage v2
+     3)blob storage 
+ V1                                                   V2                                          BLOB STORAGE 
+v1 we have 4 types st                              v2 we have 4 types st                            only blob storage 
+1)file storage                                      1)file 
+2)table storage                                     2)table
+3)container storage                                 3)container
+4)queue storage                                     4)queue                       
+ there are 2 types of access are there 1)cool
+                                       2) hot 
+cool access have frequentely 
+hot access have in frequntely
+ in v1 there is no access 
+
+
+                            
